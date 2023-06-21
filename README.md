@@ -2,9 +2,9 @@
 
 git clone https://github.com/guixou/backend.git
 
-npm init
+cd backend
 
-    edit: entry point: server.js
+npm init
 
 npm i express --save
 
