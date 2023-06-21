@@ -1,14 +1,10 @@
 # Light backend  V1 # 
 
-git clone https://github.com/guixou/backend.git
-
-cd backend
-
+git clone git@github.com:guixou/backend.git
 npm init
+    edit: entry point: server.js
 
 npm i express --save
-
-npm install mongoose
 
 to strat: nodemon server
 
