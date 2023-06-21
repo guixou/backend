@@ -8,6 +8,8 @@ npm init
 
 npm i express --save
 
+npm install mongoose
+
 to strat: nodemon server
 
 check on postman: get: http://localhost:3000/
