@@ -12,9 +12,12 @@ edit: entry point: server.js
 
     cd backend
 
+
     nodemon server
 
+
     cd ../frontend
+
 
     npm run start
 
