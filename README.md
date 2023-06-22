@@ -1,6 +1,6 @@
 # Light backend  V1 # 
 
-git clone https://github.com/guixou/backend.git
+    git clone https://github.com/guixou/backend.git
 
 
 npm init
@@ -11,9 +11,11 @@ npm i express --save
 ## to strat ##
 
     cd backend
+
     nodemon server
 
     cd ../frontend
+
     npm run start
 
 
