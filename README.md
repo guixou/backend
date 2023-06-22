@@ -28,6 +28,8 @@ Suivez les étapes suivantes pour installer et exécuter ce projet sur votre mac
     npm install
     ```
 
+4. Editer le fichier app avec votre <PASSWORD> et renomé le en app.js
+
 ## Démarrage
 
 Suivez ces étapes pour démarrer le serveur de développement :
