@@ -6,6 +6,13 @@ npm init
 
 npm i express --save
 
-to strat: nodemon server
+## to strat ##
+
+    cd backend
+    nodemon server
+
+    cd ../frontend
+    npm run start
+
 
 check on postman: get: http://localhost:3000/
