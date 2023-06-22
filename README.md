@@ -11,14 +11,15 @@ edit: entry point: server.js
 ## to strat ##
 
     cd backend
-
+O
 
     nodemon server
-
+O
 
     cd ../frontend
-
+O
 
     npm run start
+O
 
 check on postman: get: http://localhost:3000/
